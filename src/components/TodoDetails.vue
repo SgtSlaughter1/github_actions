@@ -18,7 +18,7 @@
                 <input type="text" class="form-control" v-model="userInput" @keyup.enter="addItem" />
 
                 <button class="btn-success" @click="addItem">
-                    Add
+                    Add Todo
                 </button>
             </div>
 
